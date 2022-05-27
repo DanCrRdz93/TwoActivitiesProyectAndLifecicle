@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity1</string>
+    <string name="text_header">Message Received</string>
+    <string name="text_header_reply">Reply Received</string>
+    <string name="send">Send</string>
+    <string name="enter_your_message_here">Enter your message here</string>
+    <string name="reply">Reply</string>
+    <string name="enter_your_reply_here">Enter your reply here</string>
+</resources>
